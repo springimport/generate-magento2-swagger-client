@@ -1,0 +1,6 @@
+{
+	"composerVendorName": "springimport",
+	"composerProjectName": "swagger-magento2-client",
+	"variableNamingConvention": "camelCase",
+	"invokerPackage": "SpringImport\\Swagger\\Magento2\\Client"
+}

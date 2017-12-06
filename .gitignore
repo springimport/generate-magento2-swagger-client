@@ -1,0 +1,5 @@
+/.idea
+/tmp/generation/*
+!/tmp/generation/.gitkeep
+/tmp/schema/*
+!/tmp/schema/.gitkeep
