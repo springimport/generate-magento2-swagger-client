@@ -21,7 +21,7 @@ Example of `config.json`
 
 Example generage command
 ```
-java -jar swagger-codegen-cli.jar generate -i tmp/schmea/schema.json -l php -o tmp/generation/php_api_client -c ./config.json
+java -jar swagger-codegen-cli.jar generate -i tmp/schema/schema.json -l php -o tmp/generation/php_api_client -c ./config.json
 ```
 OR (from latest Magento 2.2 directly)
 ```
